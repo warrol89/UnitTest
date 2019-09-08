@@ -1,0 +1,14 @@
+/Users/warrol/WebProjects/sampleapi/api/bin/Debug/netcoreapp2.2/sampleapi.deps.json
+/Users/warrol/WebProjects/sampleapi/api/bin/Debug/netcoreapp2.2/sampleapi.runtimeconfig.json
+/Users/warrol/WebProjects/sampleapi/api/bin/Debug/netcoreapp2.2/sampleapi.runtimeconfig.dev.json
+/Users/warrol/WebProjects/sampleapi/api/bin/Debug/netcoreapp2.2/sampleapi.dll
+/Users/warrol/WebProjects/sampleapi/api/bin/Debug/netcoreapp2.2/sampleapi.pdb
+/Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.csprojAssemblyReference.cache
+/Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.csproj.CoreCompileInputs.cache
+/Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.RazorAssemblyInfo.cache
+/Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.RazorAssemblyInfo.cs
+/Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.AssemblyInfoInputs.cache
+/Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.AssemblyInfo.cs
+/Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.RazorTargetAssemblyInfo.cache
+/Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.dll
+/Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.pdb

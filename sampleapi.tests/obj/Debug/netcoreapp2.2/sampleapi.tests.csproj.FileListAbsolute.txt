@@ -1,0 +1,17 @@
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.tests.deps.json
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.tests.runtimeconfig.json
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.tests.runtimeconfig.dev.json
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.tests.dll
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.tests.pdb
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/obj/Debug/netcoreapp2.2/sampleapi.tests.csprojAssemblyReference.cache
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/obj/Debug/netcoreapp2.2/sampleapi.tests.csproj.CoreCompileInputs.cache
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/obj/Debug/netcoreapp2.2/sampleapi.tests.AssemblyInfoInputs.cache
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/obj/Debug/netcoreapp2.2/sampleapi.tests.AssemblyInfo.cs
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/obj/Debug/netcoreapp2.2/sampleapi.tests.dll
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/obj/Debug/netcoreapp2.2/sampleapi.tests.pdb
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.dll
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.pdb
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/obj/Debug/netcoreapp2.2/sampleapi.tests.csproj.CopyComplete

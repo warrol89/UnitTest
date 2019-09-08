@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AA5978DC-A2D2-493C-B754-4632BA6FFBC2}|Default">
+  <MonoDevelop.Ide.ItemProperties.sampleapi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../sampleapi.tests/UnitTest1.cs">
+    <Files>
+      <File FileName="../sampleapi.tests/UnitTest1.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sampleapi" expanded="True">
+            <Node name="sampleapi.service" expanded="True" />
+            <Node name="sampleapi.tests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
