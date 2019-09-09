@@ -4438,6 +4438,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "sampleapi.service/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/sampleapi.service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sampleapi.service.dll": {}
+        }
       }
     }
   },
@@ -12067,13 +12077,19 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "sampleapi.service/1.0.0": {
+      "type": "project",
+      "path": "../sampleapi.service/sampleapi.service.csproj",
+      "msbuildProject": "../sampleapi.service/sampleapi.service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "sampleapi.service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12103,7 +12119,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj": {
+              "projectPath": "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

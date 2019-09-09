@@ -26,13 +26,22 @@
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.NETCore.App": "2.2.0",
+          "sampleapi.service": "1.0.0"
         },
         "runtime": {
           "sampleapi.dll": {}
         },
         "compile": {
           "sampleapi.dll": {}
+        }
+      },
+      "sampleapi.service/1.0.0": {
+        "runtime": {
+          "sampleapi.service.dll": {}
+        },
+        "compile": {
+          "sampleapi.service.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3233,6 +3242,11 @@
   },
   "libraries": {
     "sampleapi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sampleapi.service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

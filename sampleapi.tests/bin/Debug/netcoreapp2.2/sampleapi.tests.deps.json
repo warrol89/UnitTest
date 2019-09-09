@@ -1356,6 +1356,9 @@
         }
       },
       "sampleapi/1.0.0": {
+        "dependencies": {
+          "sampleapi.service": "1.0.0"
+        },
         "runtime": {
           "sampleapi.dll": {}
         }

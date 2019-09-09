@@ -13,8 +13,9 @@ public void TestInitialize(){
 }
 
 [TestMethod]
+[TestCategory("base")]
 public void TestMethod1(){
-    
+
 }
 
 

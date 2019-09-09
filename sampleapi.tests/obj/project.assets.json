@@ -2019,6 +2019,9 @@
       "sampleapi/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "sampleapi.service": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/sampleapi.dll": {}
         },

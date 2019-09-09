@@ -12,3 +12,6 @@
 /Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.RazorTargetAssemblyInfo.cache
 /Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.dll
 /Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.pdb
+/Users/warrol/WebProjects/sampleapi/api/bin/Debug/netcoreapp2.2/sampleapi.service.dll
+/Users/warrol/WebProjects/sampleapi/api/bin/Debug/netcoreapp2.2/sampleapi.service.pdb
+/Users/warrol/WebProjects/sampleapi/api/obj/Debug/netcoreapp2.2/sampleapi.csproj.CopyComplete

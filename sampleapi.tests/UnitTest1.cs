@@ -17,9 +17,10 @@ namespace sampleapi.tests
         [TestMethod]
         public void TestMethod1()
         {
-          
+          var actualResult = controller.Get(1) as OkObjectResult;
 
-
+          Assert.AreEqual(actualResult.StatusCode, (int)HttpStatusCode.OK);
+          Assert.AreSame(actualResult, "success");
         }
     }
 }

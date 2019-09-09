@@ -2,7 +2,7 @@
 
 namespace sampleapi.service
 {
-    public class Class1
+    public class Service
     {
         public string TestMethod(int id)
         {

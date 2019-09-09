@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using sampleapi.service;
 
 namespace sampleapi.Controllers
 {
@@ -25,9 +26,13 @@ namespace sampleapi.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public IActionResult Get(int id)
         {
-            return "value";
+           Service _service = new Service();
+
+           var result = _service.TestMethod(id);
+return Ok(result);
+
         }
 
         // POST api/values

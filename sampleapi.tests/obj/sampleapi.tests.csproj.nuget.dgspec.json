@@ -27,7 +27,11 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj": {
+                "projectPath": "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
