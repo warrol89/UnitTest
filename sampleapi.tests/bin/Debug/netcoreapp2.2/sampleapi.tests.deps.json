@@ -12,7 +12,8 @@
           "MSTest.TestFramework": "1.4.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.NET.Test.Sdk": "16.0.1",
-          "sampleapi": "1.0.0"
+          "sampleapi": "1.0.0",
+          "sampleapi.service": "1.0.0"
         },
         "runtime": {
           "sampleapi.tests.dll": {}
@@ -1358,6 +1359,11 @@
         "runtime": {
           "sampleapi.dll": {}
         }
+      },
+      "sampleapi.service/1.0.0": {
+        "runtime": {
+          "sampleapi.service.dll": {}
+        }
       }
     }
   },
@@ -2082,6 +2088,11 @@
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
     "sampleapi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sampleapi.service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

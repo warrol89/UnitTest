@@ -1,0 +1,9 @@
+/Users/warrol/WebProjects/sampleapi/sampleapi.service/bin/Debug/netstandard2.0/sampleapi.service.deps.json
+/Users/warrol/WebProjects/sampleapi/sampleapi.service/bin/Debug/netstandard2.0/sampleapi.service.dll
+/Users/warrol/WebProjects/sampleapi/sampleapi.service/bin/Debug/netstandard2.0/sampleapi.service.pdb
+/Users/warrol/WebProjects/sampleapi/sampleapi.service/obj/Debug/netstandard2.0/sampleapi.service.csprojAssemblyReference.cache
+/Users/warrol/WebProjects/sampleapi/sampleapi.service/obj/Debug/netstandard2.0/sampleapi.service.csproj.CoreCompileInputs.cache
+/Users/warrol/WebProjects/sampleapi/sampleapi.service/obj/Debug/netstandard2.0/sampleapi.service.AssemblyInfoInputs.cache
+/Users/warrol/WebProjects/sampleapi/sampleapi.service/obj/Debug/netstandard2.0/sampleapi.service.AssemblyInfo.cs
+/Users/warrol/WebProjects/sampleapi/sampleapi.service/obj/Debug/netstandard2.0/sampleapi.service.dll
+/Users/warrol/WebProjects/sampleapi/sampleapi.service/obj/Debug/netstandard2.0/sampleapi.service.pdb

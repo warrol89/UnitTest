@@ -15,3 +15,5 @@
 /Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.dll
 /Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.pdb
 /Users/warrol/WebProjects/sampleapi/sampleapi.tests/obj/Debug/netcoreapp2.2/sampleapi.tests.csproj.CopyComplete
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.service.dll
+/Users/warrol/WebProjects/sampleapi/sampleapi.tests/bin/Debug/netcoreapp2.2/sampleapi.service.pdb

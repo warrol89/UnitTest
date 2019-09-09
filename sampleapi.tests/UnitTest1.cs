@@ -1,5 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using sampleapi.Controllers;
+using Microsoft.AspNetCore.Mvc;
+using System.Net;
 
 namespace sampleapi.tests
 {
@@ -15,8 +17,7 @@ namespace sampleapi.tests
         [TestMethod]
         public void TestMethod1()
         {
-            var actualResult = controller.Get();
-            Assert.IsInstanceOfType(actualResult)
+          
 
 
         }

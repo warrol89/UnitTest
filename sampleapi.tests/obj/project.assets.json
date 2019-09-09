@@ -2025,6 +2025,16 @@
         "runtime": {
           "bin/placeholder/sampleapi.dll": {}
         }
+      },
+      "sampleapi.service/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/sampleapi.service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sampleapi.service.dll": {}
+        }
       }
     }
   },
@@ -6805,16 +6815,22 @@
       "type": "project",
       "path": "../api/sampleapi.csproj",
       "msbuildProject": "../api/sampleapi.csproj"
+    },
+    "sampleapi.service/1.0.0": {
+      "type": "project",
+      "path": "../sampleapi.service/sampleapi.service.csproj",
+      "msbuildProject": "../sampleapi.service/sampleapi.service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "MSTest.TestAdapter >= 1.4.0",
       "MSTest.TestFramework >= 1.4.0",
-      "Microsoft.AspNetCore.Mvc.Core",
+      "Microsoft.AspNetCore.Mvc.Core >= 2.2.5",
       "Microsoft.NET.Test.Sdk >= 16.0.1",
       "Microsoft.NETCore.App >= 2.2.0",
-      "sampleapi >= 1.0.0"
+      "sampleapi >= 1.0.0",
+      "sampleapi.service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6847,6 +6863,9 @@
           "projectReferences": {
             "/Users/warrol/WebProjects/sampleapi/api/sampleapi.csproj": {
               "projectPath": "/Users/warrol/WebProjects/sampleapi/api/sampleapi.csproj"
+            },
+            "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj": {
+              "projectPath": "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj"
             }
           }
         }
@@ -6870,7 +6889,7 @@
           },
           "Microsoft.AspNetCore.Mvc.Core": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[2.2.5, )"
           },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",

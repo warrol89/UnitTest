@@ -65,6 +65,56 @@
         }
       }
     },
+    "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj",
+        "projectName": "sampleapi.service",
+        "projectPath": "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj",
+        "packagesPath": "/Users/warrol/.nuget/packages/",
+        "outputPath": "/Users/warrol/WebProjects/sampleapi/sampleapi.service/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/warrol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
     "/Users/warrol/WebProjects/sampleapi/sampleapi.tests/sampleapi.tests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -91,6 +141,9 @@
             "projectReferences": {
               "/Users/warrol/WebProjects/sampleapi/api/sampleapi.csproj": {
                 "projectPath": "/Users/warrol/WebProjects/sampleapi/api/sampleapi.csproj"
+              },
+              "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj": {
+                "projectPath": "/Users/warrol/WebProjects/sampleapi/sampleapi.service/sampleapi.service.csproj"
               }
             }
           }
@@ -114,7 +167,7 @@
             },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[2.2.5, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
